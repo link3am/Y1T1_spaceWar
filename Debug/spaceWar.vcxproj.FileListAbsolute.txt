@@ -1,0 +1,2 @@
+C:\Users\19177\source\repos\spaceWar\Debug\spaceWar.exe
+C:\Users\19177\source\repos\spaceWar\Debug\spaceWar.pdb

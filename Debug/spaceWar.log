@@ -1,0 +1,12 @@
+﻿  spaceWar v4.cpp
+C:\Users\19177\source\repos\spaceWar\spaceWar v4.cpp(20,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\19177\source\repos\spaceWar\spaceWar v4.cpp(20,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\19177\source\repos\spaceWar\spaceWar v4.cpp(60,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\19177\source\repos\spaceWar\spaceWar v4.cpp(60,18): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\19177\source\repos\spaceWar\spaceWar v4.cpp(61,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\19177\source\repos\spaceWar\spaceWar v4.cpp(61,18): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\19177\source\repos\spaceWar\spaceWar v4.cpp(86,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\19177\source\repos\spaceWar\spaceWar v4.cpp(161,2): warning C4551: function call missing argument list
+C:\Users\19177\source\repos\spaceWar\spaceWar v4.cpp(176,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\19177\source\repos\spaceWar\spaceWar v4.cpp(781,2): warning C4551: function call missing argument list
+  spaceWar.vcxproj -> C:\Users\19177\source\repos\spaceWar\Debug\spaceWar.exe
